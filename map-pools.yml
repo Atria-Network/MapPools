@@ -1,0 +1,85 @@
+pools:
+  Dirt:
+    type: ordered
+    enabled: true
+    dynamic: true
+    players: 1
+    maps:
+      - cursed_library
+      - covert_fortress
+      - decay
+      - desolate_gully_ctw
+      - dry_outpost
+      - flow
+      - gelid_2
+      - maple_falls
+      - rage_quit_5x5
+      - Mini Drought
+      - xi
+      - under_the_sea_5x5
+      - wrap
+      - stonehenge_5x5
+      - Frontier
+      - sarc
+      - geometric
+      - alien
+      - atom
+      - latch
+  Stone:
+    type: ordered
+    enabled: true
+    dynamic: true
+    players: 8
+    maps:
+      - balloonsdtm
+      - deepwind_jungle
+      - dynamo
+      - hyudoro
+      - limbo_II
+      - Warlock
+      - Unity
+      - infernal_shadow
+      - The Fenland
+      - tranquility
+      - settler_s_covert
+      - artic_ruins
+      - shave
+      - tf2_badlands
+  Wood:
+    type: ordered
+    enabled: true
+    dynamic: true
+    players: 14
+    maps:
+      - desolated_frontier
+      - deepwind_jungle
+      - ring_race
+      - cargo
+      - agrostid
+      - clearcut
+      - empire
+      - nextgen
+      - equinox
+      - fracture_dtm
+      - the_grove
+      - insanihe
+      - infernal_shadow
+  Water:
+    type: ordered
+    enabled: true
+    dynamic: true
+    players: 28
+    maps:
+      - desert_sanctuary
+      - fractal_descent
+      - ring_race
+      - cargo
+      - agrostid
+      - clearcut
+      - empire
+      - nextgen
+      - equinox
+      - hot_dam
+      - pixel_mix
+      - winsray_fields
+      - wit_s_end
