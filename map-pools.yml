@@ -5,81 +5,114 @@ pools:
     dynamic: true
     players: 1
     maps:
-      - cursed_library
+      - Mini Drought
+      - Academy
+      - alien
+      - ascendance
+      - atom
+      - castellum_5x5
       - covert_fortress
-      - decay
+      - dead_waters
+      - decay_5x5
       - desolate_gully_ctw
+      - downforce
       - dry_outpost
       - flow
+      - frontier
       - gelid_2
-      - maple_falls
-      - rage_quit_5x5
-      - Mini Drought
-      - xi
-      - under_the_sea_5x5
-      - wrap
-      - stonehenge_5x5
-      - Frontier
-      - sarc
       - geometric
-      - alien
-      - atom
       - latch
-  Stone:
-    type: ordered
-    enabled: true
-    dynamic: true
-    players: 8
-    maps:
-      - balloonsdtm
-      - deepwind_jungle
-      - dynamo
-      - hyudoro
-      - limbo_II
-      - Warlock
-      - Unity
-      - infernal_shadow
-      - The Fenland
-      - tranquility
+      - maple_falls
+      - mesa_5x5
+      - rage_quit_5x5
+      - nyah
+      - rig_5x5
+      - sarc
       - settler_s_covert
-      - artic_ruins
-      - shave
-      - tf2_badlands
+      - stonehenge_5x5
+      - wrap
+      - sunset_glaze
+      - toos_up_5x5
+      - wallop
+      - under_the_sea_5x5
+      - xi_2
   Wood:
-    type: ordered
+    type: voted
     enabled: true
     dynamic: true
     players: 14
     maps:
-      - desolated_frontier
-      - deepwind_jungle
-      - ring_race
+      - Hyudoro Brittle
+      - 101_Rooms_tdm
+      - The Fenland
+      - Warlock
+      - Abudor
+      - antiquis
+      - arctic_ruins
+      - artext
+      - aureola
+      - balloonsdtm
+      - boom
       - cargo
-      - agrostid
-      - clearcut
-      - empire
-      - nextgen
-      - equinox
+      - deepwind_jungle
+      - desolated_frontier
+      - dynamo
       - fracture_dtm
-      - the_grove
+      - golden_drought_iii
+      - hot_dam_mini
+      - hyperspace
       - insanihe
-      - infernal_shadow
+      - limbo_ii
+      - pentamill
+      - persisto
+      - shave
+      - snowy_wars
+      - sunrise_over_paradise
+      - tf2_badlands
+      - the_grove
+      - tranquility
+      - trirectra
+      - unity
+      - ximorta
   Water:
-    type: ordered
+    type: voted
     enabled: true
     dynamic: true
     players: 28
     maps:
-      - desert_sanctuary
-      - fractal_descent
-      - ring_race
+      - Airship Battle
+      - Harb
+      - Race for Victory
+      - arid_crossroads
+      - ascension
+      - blockblock
+      - blockrage
       - cargo
-      - agrostid
-      - clearcut
+      - concourse
+      - desert_sanctuary
       - empire
-      - nextgen
+      - ender_blast
       - equinox
+      - facility
+      - fourchette
+      - fractal_descent
+      - golden_drought_iii
+      - hadron
       - hot_dam
-      - pixel_mix
+      - infernal_shadow
+      - jungle_beat
+      - levels
+      - mushroom_gorge
+      - nextgen
+      - pixelmix
+      - race_for_victory_2
+      - retaliation_2
+      - ring_race
+      - spaceship_battles
+      - the_complex_ctf
+      - the_old_texas
+      - thornwood
+      - turf_wars
+      - urban_jungle
       - winsray_fields
       - wit_s_end
