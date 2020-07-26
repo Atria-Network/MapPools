@@ -10,10 +10,10 @@ pools:
       - alien
       - ascendance
       - atom
-      - castellum_5x5
+      - castellum
       - covert_fortress
       - dead_waters
-      - decay_5x5
+      - decay
       - desolate_gully_ctw
       - downforce
       - dry_outpost
@@ -32,10 +32,10 @@ pools:
       - stonehenge_5x5
       - wrap
       - sunset_glaze
-      - toos_up_5x5
+      - toss_up
       - wallop
       - under_the_sea_5x5
-      - xi_2
+      - xi_ii
   Wood:
     type: voted
     enabled: true
