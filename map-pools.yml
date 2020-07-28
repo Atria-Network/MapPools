@@ -22,16 +22,16 @@ pools:
       - gelid_2
       - geometric
       - latch
-      - maple_falls
+      - The Snowmelt Mines
       - mesa_5x5
       - rage_quit_5x5
       - nyah
       - rig_5x5
       - sarc
-      - settler_s_covert
+      - gerian
       - stonehenge_5x5
       - wrap
-      - sunset_glaze
+      - pompeii
       - toss_up
       - wallop
       - under_the_sea_5x5
@@ -40,7 +40,7 @@ pools:
     type: voted
     enabled: true
     dynamic: true
-    players: 14
+    players: 10
     maps:
       - Hyudoro Brittle
       - 101_Rooms_tdm
@@ -56,7 +56,7 @@ pools:
       - cargo
       - deepwind_jungle
       - desolated_frontier
-      - dynamo
+      - strongbow
       - fracture_dtm
       - golden_drought_iii
       - hot_dam_mini
@@ -74,6 +74,8 @@ pools:
       - trirectra
       - unity
       - ximorta
+      - pumpkin_spice_latte
+      - cirus_dtc
   Water:
     type: voted
     enabled: true
@@ -116,3 +118,5 @@ pools:
       - urban_jungle
       - winsray_fields
       - wit_s_end
+      - iris_dtc
+      - interitus
