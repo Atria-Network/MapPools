@@ -6,9 +6,10 @@ pools:
     players: 1
     maps:
       - Mini Drought
-      - Academy
       - alien
+      - vertex
       - ascendance
+      - desolate_gully
       - atom
       - castellum
       - covert_fortress
@@ -17,7 +18,6 @@ pools:
       - desolate_gully_ctw
       - downforce
       - dry_outpost
-      - flow
       - frontier
       - gelid_2
       - geometric
@@ -28,9 +28,8 @@ pools:
       - nyah
       - rig_5x5
       - sarc
-      - gerian
+      - geiran
       - stonehenge_5x5
-      - wrap
       - pompeii
       - toss_up
       - wallop
@@ -50,6 +49,7 @@ pools:
       - antiquis
       - aureola
       - balloonsdtm
+      - grassy_mound
       - boom
       - cargo
       - deepwind_jungle
@@ -61,15 +61,12 @@ pools:
       - hyperspace
       - insanihe
       - limbo_ii
-      - pentamill
       - persisto
       - shave
       - snowy_wars
       - sunrise_over_paradise
       - tf2_badlands
       - the_grove
-      - tranquility
-      - trirectra
       - unity
       - ximorta
       - pumpkin_spice_latte
@@ -92,7 +89,6 @@ pools:
       - desert_sanctuary
       - empire
       - ender_blast
-      - equinox
       - facility
       - fourchette
       - fractal_descent
