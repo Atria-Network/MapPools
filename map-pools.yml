@@ -2,117 +2,150 @@ pools:
   Dirt:
     type: ordered
     enabled: true
-    dynamic: true
     players: 1
     maps:
-      - Mini Drought
-      - alien
-      - vertex
-      - ascendance
-      - desolate_gully
-      - atom
+      - 5man
       - castellum
-      - covert_fortress
-      - dead_waters
+      - clutter
       - decay
-      - desolate_gully_ctw
-      - downforce
-      - dry_outpost
       - frontier
-      - gelid_2
-      - geometric
-      - latch
-      - The Snowmelt Mines
-      - mesa_5x5
-      - academy
-      - rage_quit_5x5
-      - nyah
-      - rig_5x5
-      - sarc
+      - frozen market
       - geiran
-      - stonehenge_5x5
+      - geometric
+      - government
+      - Hillside Mini
+      - mesa
+      - humble jungle
+      - pirate cove
+      - overgrown valley
       - pompeii
-      - toss_up
-      - wallop
-      - under_the_sea_5x5
-      - xi_ii
+      - rage quit
+      - snowy frontier
+      - stonehenge
+      - the snowmelt mines
+      - toss up
+      - under the sea
+      - alien
   Wood:
     type: voted
     enabled: true
-    dynamic: true
-    players: 12
+    players: 6
     maps:
-      - Hyudoro Brittle
-      - 101_Rooms_tdm
-      - The Fenland
-      - Warlock
-      - Abudor
-      - antiquis
-      - aureola
-      - balloonsdtm
-      - grassy_mound
-      - boom
-      - cargo
-      - deepwind_jungle
-      - desolated_frontier
-      - strongbow
-      - fracture_dtm
-      - golden_drought_iii
-      - hot_dam_mini
-      - hyperspace
-      - insanihe
-      - limbo_ii
-      - persisto
-      - shave
-      - snowy_wars
-      - sunrise_over_paradise
-      - tf2_badlands
-      - the_grove
-      - unity
-      - Tatakai
-      - pumpkin_spice_latte
-      - cirus_dtc
+      - Race for Victory
+      - 101 Rooms TDM
+      - Academy
+      - Downforce
+      - Rage Quit TDM
+      - 'Hot Dam: Mini'
+      - The grove
+      - 'TF2: Badlands'
+      - Abstract
+      - Latch
+      - Covert Fortress
+      - Cursed Library
+      - Dead waters
+      - Desolate Gully
+      - Desolate Gully CTW
+      - Dry Outpost
+      - Gelid 2
+      - Grassy Mound
+      - Nyah
+      - Rampant
+      - Sarc
+      - Settler's Covert
+      - Vertex
+      - Xi II
+      - mini drought
+      - 'Hillside: Mini'
+      - limbo
+      - Beckam
   Water:
     type: voted
     enabled: true
-    dynamic: true
-    players: 28
+    players: 20
     maps:
+      - Alepboo
+      - Snowy Wars
+      - Warlock
+      - Hallows
+      - Fracture DTM
+      - Desolated Frontier
+      - Facility
+      - Strongbow
+      - Sunrise OverParadise
+      - The Fenland
+      - Boom
+      - Cargo
+      - Cirus DTC
+      - Deepwin jungle
+      - Empire
+      - Golden drought III
+      - Levels
+      - Limbo II
+      - Aureola
+      - persisto
+      - Warlock
+      - Kryta
+      - 'Tree of Life: Mini'
+      - Hyudoro brittle
+      - Abudor
+      - antiquis
+      - arid crossoads
+      - balloonsDTM
+      - BlockRAGE
+      - The grove
+      - loyalty DTM
+      - Insanihe
+      - Infernal Shadow
+      - atom
+      - rampant
+      - sunburn
+      - tatakai
+      - unity
+  Lava:
+    type: voted
+    enabled: true
+    players: 32
+    maps:
+      - Thornwood
+      - Concourse
+      - Desert Sanctuary
       - Airship Battle
-      - Harb
-      - Race for Victory
-      - arid_crossroads
+      - Autunno
+      - Hyperspace
+      - Iris DTC
+      - Palace CTF
+      - Tebulas
+      - Urban Jungle
+      - Wit's End
+      - Long Shot
+      - BlockRAGE
+      - Xi
+      - The hill
+      - The complex CTF
+      - smog
+      - Spaceship Battles
+      - shock wave
+      - xion
+      - Ring Race
+      - Next gen
+      - Jungle beat
+      - Fractal descent
+      - Fourchette
+      - BlockBlock
+      - winsray fields
       - ascension
-      - blockblock
-      - blockrage
-      - cargo
-      - concourse
-      - desert_sanctuary
-      - empire
-      - ender_blast
-      - facility
-      - fourchette
-      - fractal_descent
-      - golden_drought_iii
-      - hadron
-      - hot_dam
-      - infernal_shadow
-      - jungle_beat
-      - levels
-      - mushroom_gorge
-      - nextgen
-      - pixelmix
-      - race_for_victory_2
-      - retaliation_2
-      - ring_race
-      - spaceship_battles
-      - the_complex_ctf
-      - the_old_texas
-      - thornwood
-      - turf_wars
-      - urban_jungle
-      - hallows
-      - winsray_fields
-      - wit_s_end
-      - iris_dtc
+      - diablo
+      - ender blast
+      - foxrot
+      - fractal descent
+      - hillside
+      - Hot Dam
       - interitus
+      - java
+      - molendinis
+      - pixel mix
+      - race for victory 2
+      - retalation_2
+      - Grub
+      - Donut wars
