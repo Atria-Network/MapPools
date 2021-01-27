@@ -1,72 +1,54 @@
 pools:
-  Dirt:
-    type: ordered
-    enabled: true
-    players: 1
-    maps:
-      - 5man
-      - castellum
-      - clutter
-      - decay
-      - frontier
-      - frozen market
-      - geiran
-      - geometric
-      - government
-      - Hillside Mini
-      - mesa
-      - pirate cove
-      - overgrown valley
-      - pompeii
-      - rage quit
-      - snowy frontier
-      - stonehenge
-      - the snowmelt mines
-      - toss up
-      - under the sea
-      - alien
   Wood:
-    type: voted
+    type: ordered
     enabled: true
     players: 6
     maps:
       - Race for Victory
-      - 101 Rooms TDM
-      - Academy
-      - Downforce
-      - Rage Quit TDM
-      - 'Hot Dam: Mini'
-      - The grove
-      - 'TF2: Badlands'
-      - Abstract
-      - Latch
-      - Covert Fortress
-      - Cursed Library
-      - Dead waters
-      - Desolate Gully
-      - Desolate Gully CTW
-      - Dry Outpost
+      - eclipse
+      - 101 Rooms TDM 
+      - arctic ruins
+      - Academy 
+      - odin
+      - Downforce 
+      - 'Hot Dam: Mini' 
+      - The grove 
+      - Xi II 
+      - Latch 
+      - Covert Fortress 
+      - Cursed Library 
+      - voltage
+      - mini drought 
+      - Dead waters 
+      - Desolate Gully 
+      - Desolate Gully CTW 
+      - Dry Outpost 
       - Gelid 2
-      - Grassy Mound
-      - Nyah
-      - Rampant
-      - Sarc
-      - Settler's Covert
-      - Vertex
-      - Xi II
-      - mini drought
-      - 'Hillside: Mini'
+      - maple falls
+      - Grassy Mound 
+      - Nyah 
+      - Rampant 
+      - Sarc 
+      - Settler's Covert 
+      - Vertex 
+      - 'Hillside: Mini' 
       - limbo
-      - Beckam
+      - chestnut
+      - sunset glaze 
+      - Beckam 
+      - Rage Quit FFA
   Water:
     type: voted
     enabled: true
     players: 20
     maps:
-      - Alepboo
-      - Snowy Wars
-      - Warlock
-      - Hallows
+      - AlepBOO!
+      - royal
+      - downtown
+      - enchanted 
+      - Snowy Wars 
+      - Warlock 
+      - Hallows 
       - Fracture DTM
       - Desolated Frontier
       - Facility
